@@ -1,0 +1,5 @@
+sftp\filetrasfer\MailSender.class
+sftp\filetrasfer\App.class
+sftp\filetrasfer\SFTPFileDownload.class
+sftp\filetrasfer\MailSender$1.class
+sftp\filetrasfer\PropertiesUtility.class
