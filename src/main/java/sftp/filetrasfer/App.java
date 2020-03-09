@@ -19,7 +19,7 @@ public class App
 			PropertiesUtility propUtil = new PropertiesUtility(); 
 			propUtil.loadPropertiesJSON("D:\\BSDF\\properties.json"); //Local
 			
-			//Adding for testiff    erer
+			//Adding for testiff    erer added for new change in testing
 			//propUtil.loadPropertiesJSON("./properties.json"); //Server 
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
