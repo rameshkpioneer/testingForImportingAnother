@@ -18,6 +18,8 @@ public class App
 		try {
 			PropertiesUtility propUtil = new PropertiesUtility(); 
 			propUtil.loadPropertiesJSON("D:\\BSDF\\properties.json"); //Local
+			
+			//Adding for testing 
 			//propUtil.loadPropertiesJSON("./properties.json"); //Server 
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
